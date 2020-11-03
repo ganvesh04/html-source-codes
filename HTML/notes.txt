@@ -1,0 +1,26 @@
+HTML?
+
+HTML if for Hypertext Markup Language is used for describing static
+web pages.
+
+A mark up languague is a set of tags which are used to represent UI
+
+ Tag is a keyword enclosed in angular brackets.
+
+ ex: <html>,<head>,<body>...
+
+extension:  .html / .htm
+
+<html>
+   
+   <head>
+   
+   <body>
+   
+   
+   <body>
+
+
+   <head>
+
+<html>
